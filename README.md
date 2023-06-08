@@ -12,7 +12,7 @@
 
 - 📫 Reach me by **shamshul.haque.dev@gmail.com**
 
-- 📄  Checkout my [Resume](https://drive.google.com/file/d/1hRjyxqo8kc0oFmJllFh7d7vtfyNujlpk/view?usp=sharing)
+- 📄  Checkout my [resume](https://drive.google.com/file/d/1hRjyxqo8kc0oFmJllFh7d7vtfyNujlpk/view?usp=sharing)
 
 
 ### Connect with me:
