@@ -1,18 +1,18 @@
 <p align="center"> <img src="https://github.com/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="Banner" /> </p>
 
-<h1 align="center">Hi There! I'm Shamshul Haque<img width="25" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/></h1>
+<h1 align="center">Hi There! I'm Md. Shamshul Haque Molla<img width="25" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/></h1>
 
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A Passionate Web Developer from Bangladesh</h3>
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" align="right" width="400">
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👯 I’m looking to collaborate on **with other content creators**
+- 👯 I’m looking to collaborate on **Other web developers**
 
 - 📫 Reach me by **shamshul.haque.dev@gmail.com**
 
-- 📄  Checkout my [resume](https://drive.google.com/file/d/1hRjyxqo8kc0oFmJllFh7d7vtfyNujlpk/view?usp=sharing)
+- 📄  Checkout my [resume](https://drive.google.com/file/d/10nn7nXz6r3phG8RCR1pqZGfZuUVbz6Px/view?usp=drive_link)
 
 
 ### Connect with me:
