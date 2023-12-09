@@ -49,7 +49,5 @@
 <br />
 
 ### GitHub Stats
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shamshul-haque&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="shamshul-haque" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamshul-haque&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="shamshul-haque" />
-</p>
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shamshul-haque&theme=gruvbox-duo" alt="GitHub Streak" /></a>
+
