@@ -1,28 +1,34 @@
-<p align="center"> <img src="https://github.com/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="Banner" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/shamshul-haque/shamshul-haque/main/assets/cover.png" alt="Banner" /> </p>
 
-<h1 align="center">Hi There! I'm Md. Shamshul Haque Molla<img width="25" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/></h1>
+# About Me
 
-<h3 align="center">A Passionate Web Developer from Bangladesh</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamshul-haque&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Coding" align="right" width="300">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamshul-haque&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Coding" align="right" width="400">
+- 🌱 Currently learning **MERN Stack Development**
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 👯 Open to collaborating on **Interesting Projects as a Developer**
 
-- 👯 I’m looking to collaborate on **Other web developers**
+- 🥅 2024 Goals: Learn **Redux, Next JS, React Native, TypeScript**
 
 - 📫 Reach me by **shamshul.haque.dev@gmail.com**
 
-- 📄  Checkout my [resume](https://drive.google.com/file/d/10nn7nXz6r3phG8RCR1pqZGfZuUVbz6Px/view?usp=drive_link)
-
-
-### Connect with me:
-<!-- <a target="_blank" href="https://linkedin.com/in/shamshul-haque"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> -->
-<a target="_blank" href="https://linkedin.com/in/shamshul-haque"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank" href="https://www.facebook.com/sujat.shams"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+- 📄  Checkout my [resume](https://drive.google.com/file/d/1MC1AMoqWvvzA5ZVz-TrwwofQ24wjgDHB/view?usp=drive_link)
 <br/>
 <br/>
 
-### Languages, Frameworks and Libraries :
+# Connect With Me
+<a target="_blank" href="https://linkedin.com/in/shamshul-haque">
+  <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a target="_blank" href="https://www.facebook.com/sujat.shams">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<br/>
+<br/>
+
+
+# Skills
+<h3>Technical Skills</h3>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
