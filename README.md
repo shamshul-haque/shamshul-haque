@@ -15,7 +15,6 @@
 - 📄  Checkout my [resume](https://drive.google.com/file/d/1MC1AMoqWvvzA5ZVz-TrwwofQ24wjgDHB/view?usp=drive_link)
 <br/>
 <br/>
-<br/>
 
 # Connect With Me
 <a target="_blank" href="https://linkedin.com/in/shamshul-haque">
@@ -24,7 +23,6 @@
 <a target="_blank" href="https://www.facebook.com/sujat.shams">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-<br/>
 <br/>
 <br/>
 
@@ -46,7 +44,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-<br />
 <br />
 <br />
 
