@@ -4,7 +4,7 @@
 
 <h3 align="center">A Passionate Web Developer from Bangladesh</h3>
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" align="right" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamshul-haque&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Coding" align="right" width="400">
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
